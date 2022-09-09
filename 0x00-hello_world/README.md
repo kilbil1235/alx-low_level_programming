@@ -1,1 +1,1 @@
-script that generates the assembly code of a C code
+program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19
