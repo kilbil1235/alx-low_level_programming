@@ -1,1 +1,1 @@
-script that adds the two numbers.
+script that generates the assembly code of a C code
