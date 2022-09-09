@@ -1,1 +1,1 @@
-Assign a random number to the variable
+prints the alphabet in lowercase
