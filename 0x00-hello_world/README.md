@@ -1,1 +1,1 @@
-script that runs a C
+script that adds the two numbers.
