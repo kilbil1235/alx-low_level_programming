@@ -1,1 +1,1 @@
-script that compiles a C file and creates an executable
+C program that prints exactly
