@@ -1,1 +1,1 @@
-program that prints _putchar
+Write a function that prints the alphabets
